@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Catalin Ionut Epingeac</Authors>
+    <PackageId>LiteFileLogger_CatalinEpingeac</PackageId>
+  </PropertyGroup>
+
+</Project>
